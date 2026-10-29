@@ -1,3 +1,44 @@
-# RAS Karaoke Setup releases
+# RASing Pack Setup
 
-Signed APK releases only. Source is maintained separately.
+Download and prepare resource files for the RASing karaoke app.
+
+## Download and install
+
+1. Open [Latest Release](https://github.com/ramosappstudio/RASing-pack-setup/releases/latest).
+2. Under **Assets**, download **rasing-setup.apk**.
+3. Open the APK. If Android asks, allow your browser to install unknown apps.
+4. Follow Android's installation prompts.
+
+## Download resources
+
+1. Open the tester group link inside Setup.
+2. Open either the **Join on Android** or **Join on the web** link.
+3. Choose the resource categories you need, or select **Download All**.
+4. Use the default storage location or select another parent folder. Setup creates or reuses a **RASK** folder there.
+5. Start downloading. A notification shows progress while you use other apps.
+
+Allow notifications to see download progress and the Cancel button. Force-stopping Setup can interrupt a transfer. Retrying keeps verified files and restarts incomplete files.
+
+After downloading, open the RASing karaoke app and select the prepared **RASK** folder when prompted.
+
+## Updates
+
+Use **About → Update** in Setup to check for newer versions, or download the latest APK from this repository. Android will ask you to confirm installation.
+
+## Disclaimer
+
+To the extent permitted by applicable law, this software is provided **“AS IS” and “AS AVAILABLE.”** Downloads, storage access, and compatibility can vary by device, Android version, network, and available space. Keep independent backups of important files.
+
+Downloading resources does not grant copyright ownership or permission for every intended use. Use music, lyrics, recordings, videos, fonts, and other protected material only where you have an appropriate license, permission, or applicable legal exception. Public or commercial use may require additional permissions.
+
+### Third-Party Resources and Removal Requests
+
+The downloadable pack includes third-party materials obtained from online sources. Copyright and other applicable rights remain with their respective owners. Ramos Apps Studio does not claim ownership of those materials or imply endorsement by their creators.
+
+If you believe a downloadable resource infringes your rights, please contact **ramos.appstudio@gmail.com**. Include the file name or download link, identify the protected work, explain your ownership or authority to act, and provide supporting information and contact details.
+
+We will promptly review sufficiently detailed requests and remove or disable access to material where appropriate, including while a credible rights concern is being investigated.
+
+For the player's full terms, privacy policy, copyright disclaimer, and third-party notices, open **Settings → About** in RASing.
+
+**Questions or copyright inquiries:** ramos.appstudio@gmail.com
