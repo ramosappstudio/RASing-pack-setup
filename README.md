@@ -1,8 +1,6 @@
 # Karaoke Resources Downloader
 
-Install the Android downloader published by Ramos Apps Studio to download RASK resources for use with the RAS Karaoke player. The package ID is `com.ras.karaoke.setup`, matching earlier releases.
-
-The source project and its history remain at [jerecsonramos/ras-karaoke-pack-setup](https://github.com/jerecsonramos/ras-karaoke-pack-setup). Earlier APK releases remain in this release repository under their original names.
+Install the Android downloader published by Ramos Apps Studio to download RASK resources for use with the RAS Karaoke player.
 
 ## Download and install
 
