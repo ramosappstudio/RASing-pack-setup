@@ -1,29 +1,29 @@
-# RASing Pack Setup
+# Karaoke Resources Downloader
 
-Download and prepare resource files for the RASing karaoke app.
+Install the Android downloader published by Ramos Apps Studio to download RASK resources for use with the RAS Karaoke player. The package ID is `com.ras.karaoke.setup`, matching earlier releases.
+
+The source project and its history remain at [jerecsonramos/ras-karaoke-pack-setup](https://github.com/jerecsonramos/ras-karaoke-pack-setup). Earlier APK releases remain in this release repository under their original names.
 
 ## Download and install
 
 1. Open [Latest Release](https://github.com/ramosappstudio/RASing-pack-setup/releases/latest).
-2. Under **Assets**, download **rasing-setup.apk**.
+2. Under **Assets**, download **resources-downloader.apk**.
 3. Open the APK. If Android asks, allow your browser to install unknown apps.
 4. Follow Android's installation prompts.
 
 ## Download resources
 
-1. Open the tester group link inside Setup.
-2. Open either the **Join on Android** or **Join on the web** link.
-3. Choose the resource categories you need, or select **Download All**.
-4. Use the default storage location or select another parent folder. Setup creates or reuses a **RASK** folder there.
-5. Start downloading. A notification shows progress while you use other apps.
+1. Choose the resource categories you need, or select **Download All**.
+2. Use the default storage location or select another parent folder. The app creates or reuses a **RASK** folder there.
+3. Start downloading. A notification shows progress while you use other apps.
 
-Allow notifications to see download progress and the Cancel button. Force-stopping Setup can interrupt a transfer. Retrying keeps verified files and restarts incomplete files.
+Allow notifications to see download progress and the Cancel button. Force-stopping Karaoke Resources can interrupt a transfer. Retrying keeps verified files and restarts incomplete files.
 
-After downloading, open the RASing karaoke app and select the prepared **RASK** folder when prompted.
+After downloading, open the RAS Karaoke player and select the prepared **RASK** folder when prompted.
 
 ## Updates
 
-Use **About → Update** in Setup to check for newer versions, or download the latest APK from this repository. Android will ask you to confirm installation.
+Use **About → Check for updates** in Karaoke Resources, or download the latest APK from this repository. Android will ask you to confirm installation. In-place updates also require a compatible signing key and a higher version code.
 
 ## Disclaimer
 
@@ -39,6 +39,6 @@ If you believe a downloadable resource infringes your rights, please contact **r
 
 We will promptly review sufficiently detailed requests and remove or disable access to material where appropriate, including while a credible rights concern is being investigated.
 
-For the player's full terms, privacy policy, copyright disclaimer, and third-party notices, open **Settings → About** in RASing.
+For the player's full terms, privacy policy, copyright disclaimer, and third-party notices, open **Settings → About** in the RAS Karaoke player.
 
 **Questions or copyright inquiries:** ramos.appstudio@gmail.com
